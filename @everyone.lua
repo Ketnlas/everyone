@@ -1,1 +1,1 @@
-print("ez")```@everyone
+```none``` @everyone
